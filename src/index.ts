@@ -1,1 +1,2 @@
-console.log('Bonjour ${FIRSTNAME} ${LASTNAME}, Comment allez-vous ?')
+console.log
+(`Bonjour ${process.env.FIRSTNAME} ${process.env.LASTNAME} ,Comment allez-vous ?`)
