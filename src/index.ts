@@ -1,1 +1,1 @@
-console.log('Salut ! Salut ! Salut !')
+console.log('Salut ! Salut ! Salut ! ${FIRSTNAME} ${LASTNAME}`)
