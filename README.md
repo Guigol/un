@@ -1,4 +1,4 @@
-Go to branck master
+Go to branch master
 
 Autheur : AA
 
